@@ -5,7 +5,7 @@ I love solving problems through code and constantly learning to improve my skill
 
 
 🔧 Skills and Interests
-- **Programming**: Python (beginner to intermediate), HTML, CSS
+- **Programming**: Python, HTML, CSS
 - **Projects**: 
   - Fun Python games 🐍
   - Productivity and learning apps 📱
