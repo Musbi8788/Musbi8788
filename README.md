@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Musbi</h1>
-<h3 align="center">A passionate python developer from The Gambia</h3>
+<h3 align="center">A passionate Python developer and creative technologist from The Gambia</h3>
+
+<p align="left">
+I’m a 21-year-old creative and tech enthusiast currently working as an intern and facilitator at Myfarm, a hands-on skills center in The Gambia. I specialize in Python development, web design (HTML, CSS, WordPress, Bootstrap), and graphic design.
+
+I’m passionate about using technology to solve real-world problems and create meaningful tools for my local community. I co-founded **Blueprint Creators**, a student-led web and graphic design team, and small businesses including **Lax Drip** (custom skull caps) and **Okrika Street** (thrift clothing).
+
+Currently, I’m building full-stack projects such as **WaaTax** (a local business tax tracker) and **Gamzon** (an e-commerce platform). I’m also learning Flask, Django, Python automation, and improving my skills in project architecture and deployment.
+
+I love contributing to creative projects, collaborating with like-minded people, and continuously learning new technologies. Outside of coding, I enjoy playing chess and exploring entrepreneurial ideas.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musbi8788&label=Profile%20views&color=0e75b6&style=flat" alt="musbi8788" /> </p>
 
