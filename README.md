@@ -22,7 +22,7 @@ I love contributing to creative projects, collaborating with like-minded people,
 
 - 👯 I’m looking to collaborate on [gamdev](https://github.com/Musbi8788/JCC_course_into_to_tech.git)
 
-- 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/)
+- 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/learn/full-stack-developer/)
 
 - 👨‍💻 All of my projects are available at [https://gawtech.ct.ws/portfolio/](https://gawtech.ct.ws/portfolio/)
 
