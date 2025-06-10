@@ -4,9 +4,9 @@
 <p align="left">
 I’m a 21-year-old creative and tech enthusiast currently working as an intern and facilitator at Myfarm, a hands-on skills center in The Gambia. I specialize in Python development, web design (HTML, CSS, WordPress, Bootstrap), and graphic design.
 
-I’m passionate about using technology to solve real-world problems and create meaningful tools for my local community. I co-founded **Blueprint Creators**, a student-led web and graphic design team, and small businesses including **Lax Drip** (custom skull caps) and **Okrika Street** (thrift clothing).
+I’m passionate about using technology to solve real-world problems and create meaningful tools for my local community. I co-founded **Blueprint Creators**, a student-led web and graphic design team, and small businesses including **Lax Drip** (custom skull caps).
 
-Currently, I’m building full-stack projects such as **WaaTax** (a local business tax tracker) and **Gamzon** (an e-commerce platform). I’m also learning Flask, Django, Python automation, and improving my skills in project architecture and deployment.
+Currently, I’m building full-stack projects such as **Gamzon** (an e-commerce platform) and **MyFarm**(a school website). I’m also learning Flask, Django, Python automation, and improving my skills in project architecture and deployment.
 
 I love contributing to creative projects, collaborating with like-minded people, and continuously learning new technologies. Outside of coding, I enjoy playing chess and exploring entrepreneurial ideas.
 </p>
