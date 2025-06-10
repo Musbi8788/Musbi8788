@@ -20,7 +20,7 @@ I love contributing to creative projects, collaborating with like-minded people,
 
 - 🌱 I’m currently learning **Flask, Django, Python automation, full-stack web development, Git/GitHub, data visualization, and improving my English and touch typing skills.**
 
-- 👯 I’m looking to collaborate on [gamdev](https://github.com/Musbi8788/JCC_course_into_to_tech.git)
+- 👯 I’m looking to collaborate on [gamdev](https://github.com/Musbi8788/gamdev.git)
 
 - 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/learn/full-stack-developer/)
 
