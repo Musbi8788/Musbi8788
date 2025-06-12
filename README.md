@@ -1,15 +1,32 @@
 <h1 align="center">Hi 👋, I'm Musbi</h1>
-<h3 align="center">A passionate Python developer and creative technologist from The Gambia</h3>
+<h3 align="center">Python Developer | Backend & Full-Stack Enthusiast | Creative Technologist from The Gambia</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3FsaWc3dHYzM3hlcGlyenBidDNzZ3o1cWN1YnRydjZnY2VkeDY0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" alt="Programming Animation" width="200"/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWFmeG1yYmZudG85enU0cmFzZGtocnpmY3RtZWFteWs3bWhxeGhsNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2R0cvMrULqv6se4M/giphy.gif" alt="Programming Animation" width="200"/>
+</p>
 
 <p align="left">
-I’m a 21-year-old creative and tech enthusiast currently working as an intern and facilitator at Myfarm, a hands-on skills center in The Gambia. I specialize in Python development, web design (HTML, CSS, WordPress, Bootstrap), and graphic design.
-
-I’m passionate about using technology to solve real-world problems and create meaningful tools for my local community. I co-founded **Blueprint Creators**, a student-led web and graphic design team, and small businesses including **Lax Drip** (custom skull caps).
-
-Currently, I’m building full-stack projects such as **Gamzon** (an e-commerce platform) and **MyFarm**(a school website). I’m also learning Flask, Django, Python automation, and improving my skills in project architecture and deployment.
-
-I love contributing to creative projects, collaborating with like-minded people, and continuously learning new technologies. Outside of coding, I enjoy playing chess and exploring entrepreneurial ideas.
+I'm a passionate <strong>Python developer</strong> and tech enthusiast currently interning at <strong>Myfarm</strong>, a hands-on skills center in The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Flask, Django, HTML, CSS, Bootstrap), and <strong>automation</strong>.
 </p>
+
+<p align="left">
+I love building practical, real-world applications that solve problems in my local community. I co-founded <strong>Blueprint Creators</strong>, a student-led web and graphic design team, and small businesses like <strong>Lax Drip</strong> (custom skull caps).
+</p>
+
+<p align="left">
+Currently, I’m working on full-stack Python projects such as <strong>Gamzon</strong> (an e-commerce platform) and <strong>MyFarm</strong> (a school website). I’m also improving my skills in Python automation, API development, project architecture, and deployment.
+</p>
+
+<p align="left">
+I’m passionate about collaborating on open-source projects and continuously learning new Python frameworks and technologies. Outside of coding, I enjoy playing chess and exploring entrepreneurial ideas.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ4cGZ1M2J4bHQ0YmpzbDlhMjFsNDZ2ZW1mYTh3M2VlOHZ3eWR2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Programming Animation" width="400"/>
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musbi8788&label=Profile%20views&color=0e75b6&style=flat" alt="musbi8788" /> </p>
