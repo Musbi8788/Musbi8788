@@ -71,6 +71,6 @@ I’m passionate about collaborating on open-source projects and continuously le
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em9kNnBvOXpkc2xodWV1N3pid2x6cHJ2c2xlY2o2MzZqZzd0cG90cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2R0flMBPtMGU0wbm/giphy.gif" alt="Programming Animation" width="400"/>
-  
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em9kNnBvOXpkc2xodWV1N3pid2x6cHJ2c2xlY2o2MzZqZzd0cG90cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3JDLY0bJA5N6TLqM/giphy.gif" alt="Programming Animation" width="400"/>
 </p>
 
