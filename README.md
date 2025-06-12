@@ -67,3 +67,10 @@ I’m passionate about collaborating on open-source projects and continuously le
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musbi8788&show_icons=true&locale=en&layout=compact" alt="musbi8788" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musbi8788&show_icons=true&locale=en" alt="musbi8788" /></p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3em9kNnBvOXpkc2xodWV1N3pid2x6cHJ2c2xlY2o2MzZqZzd0cG90cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2R0flMBPtMGU0wbm/giphy.gif" alt="Programming Animation" width="400"/>
+  
+</p>
+
