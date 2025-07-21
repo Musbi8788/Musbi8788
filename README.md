@@ -23,9 +23,7 @@ Currently, I’m working on full-stack Python projects such as <strong>Gamzon</s
 I’m passionate about collaborating on open-source projects and continuously learning new Python frameworks and technologies. Outside of coding, I enjoy playing chess and exploring entrepreneurial ideas.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ4cGZ1M2J4bHQ0YmpzbDlhMjFsNDZ2ZW1mYTh3M2VlOHZ3eWR2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Programming Animation" width="400"/>
-</p>
+
 
 
 
