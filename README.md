@@ -14,12 +14,9 @@
 ---
 
 <p align="left">
-I'm a passionate <strong>Python developer</strong> and tech enthusiast currently interning at <strong>Myfarm</strong>, a hands-on skills center in The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Flask, Django, HTML, CSS, Bootstrap), and <strong>automation</strong>.
+I'm a passionate <strong>Python developer</strong> and tech enthusiast currently interning at <strong>Myfarm</strong>, a hands-on skills center in The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Django, Flask, HTML, CSS, Bootstrap), and <strong>automation</strong>.
 </p>
 
-<p align="left">
-I love building practical, real-world applications that solve problems in my local community. I co-founded <strong><a href="https://blueprint-creators.42web.io" target="_blank">Blueprint Creators</a></strong>, a student-led web and graphic design team, and small businesses like <strong>Lax Drip</strong> (custom skull caps).
-</p>
 
 <p align="left">
 Currently, I’m working on full-stack Python projects such as <strong>Gamzon</strong> (an e-commerce platform) and <strong>MyFarm</strong> (a school website). I’m also improving my skills in Python automation, API development, project architecture, and deployment.
@@ -41,15 +38,13 @@ I’m passionate about collaborating on open-source projects and continuously le
 
 - 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 👨‍💻 All of my projects are available at [https://gawtech.ct.ws/portfolio/](https://gawtech.ct.ws/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://gawtech.ct.ws/portfolio/](https://musbi-django-portfolio.onrender.com/)
 
 - 📝 I regularly write articles on [https://gawtech.ct.ws/blog/](https://gawtech.ct.ws/blog/)
 
 - 💬 Ask me about **web design, Python programming, Flask & Django, graphic design, Git/GitHub, and building creative tech projects.**
 
 - 📫 How to reach me **musbimusbi7@gmail.com**
-
-- 📄 Know about my experiences [Resume PDF](http://gawtech.ct.ws/wp-content/uploads/2025/05/Musbi_Jawo_Python_Resume1.pdf)
 
 - ⚡ Fun fact **I’m a chess enthusiast and can type at 50 WPM while thinking about code!**
 
