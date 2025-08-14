@@ -38,7 +38,7 @@ I’m passionate about collaborating on open-source projects and continuously le
 
 - 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/learn/full-stack-developer/)
 
-- 👨‍💻 All of my projects are available at [[https://gawtech.ct.ws/portfolio/](https://musbi-django-portfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [Django Portfolio](https://musbi-django-portfolio.onrender.com/)
 
 - 📝 I regularly write articles on [https://gawtech.ct.ws/blog/](https://gawtech.ct.ws/blog/)
 
