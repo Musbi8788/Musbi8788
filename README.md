@@ -44,8 +44,6 @@ I’m passionate about collaborating on open-source projects and continuously le
 
 - 💬 Ask me about **web design, Python programming, Flask & Django, graphic design, Git/GitHub, and building creative tech projects.**
 
-- 📫 How to reach me **musbimusbi7@gmail.com**
-
 - ⚡ Fun fact **I’m a chess enthusiast and can type at 50 WPM while thinking about code!**
 
 ---
@@ -55,7 +53,7 @@ I’m passionate about collaborating on open-source projects and continuously le
 <a href="https://www.linkedin.com/in/musbi-jawo-3b6497327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/musbi222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/musbi802022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/musbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+
 </p>
 
 ---
