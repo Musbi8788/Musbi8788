@@ -76,5 +76,3 @@ I’m passionate about collaborating on open-source projects and continuously le
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musbi8788&show_icons=true&locale=en" alt="musbi8788" /></p>
