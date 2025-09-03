@@ -78,3 +78,8 @@ I’m passionate about collaborating on open-source projects and continuously le
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musbi8788&show_icons=true&locale=en" alt="musbi8788" /></p>
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Musbi8788)
+
+
