@@ -14,16 +14,17 @@
 ---
 
 <p align="left">
-I'm a passionate <strong>Python developer</strong> and tech enthusiast currently interning at <strong>Myfarm</strong>, a hands-on skills center in The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Django, Flask, HTML, CSS, Bootstrap), and <strong>automation</strong>.
+I'm a passionate, <strong>self-taught Python developer</strong> and tech enthusiast from The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Django, Flask, HTML, CSS, Bootstrap), and <strong>automation</strong>.
 </p>
 
 <p align="left">
-Currently, I’m working on full-stack Python projects such as <strong>Gamzon</strong> (an e-commerce platform) and <strong>MyFarm</strong> (a school website). I’m also improving my skills in Python automation, API development, project architecture, and deployment.
+I’m currently building full-stack Python projects like <strong>Smart Invoice Generator</strong>, <strong>Service Finder</strong>, and <strong>GamDev Hub</strong>, while honing skills in <strong>Python automation</strong>, <strong>API development</strong>, <strong>project architecture</strong>, and <strong>deployment</strong>.
 </p>
 
 <p align="left">
-I’m passionate about collaborating on open-source projects and continuously learning new technologies like <strong>Selenium</strong>, <strong>Pandas</strong>, <strong>Seaborn</strong>, and exploring <strong>data visualization</strong> techniques. Outside of coding, I enjoy playing chess and touch typing at 50 WPM.
+I continuously explore technologies such as <strong>Django</strong>, <strong>Django Rest API</strong>, <strong>Docker</strong>, <strong>Linux Command</strong>, and <strong>Git</strong>. Outside coding, I enjoy chess and touch typing at 50 WPM.
 </p>
+
 
 ---
 
