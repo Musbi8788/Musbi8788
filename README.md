@@ -17,7 +17,6 @@
 I'm a passionate <strong>Python developer</strong> and tech enthusiast currently interning at <strong>Myfarm</strong>, a hands-on skills center in The Gambia. I specialize in <strong>Python programming</strong>, <strong>web development</strong> (Django, Flask, HTML, CSS, Bootstrap), and <strong>automation</strong>.
 </p>
 
-
 <p align="left">
 Currently, I’m working on full-stack Python projects such as <strong>Gamzon</strong> (an e-commerce platform) and <strong>MyFarm</strong> (a school website). I’m also improving my skills in Python automation, API development, project architecture, and deployment.
 </p>
@@ -25,6 +24,15 @@ Currently, I’m working on full-stack Python projects such as <strong>Gamzon</s
 <p align="left">
 I’m passionate about collaborating on open-source projects and continuously learning new technologies like <strong>Selenium</strong>, <strong>Pandas</strong>, <strong>Seaborn</strong>, and exploring <strong>data visualization</strong> techniques. Outside of coding, I enjoy playing chess and touch typing at 50 WPM.
 </p>
+
+---
+
+<h3 align="left">🚀 Achievements</h3>
+
+- 🏆 **Top 5 Finalist** – Hack4Gambia Hackathon (2025)  
+- 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 497+ commits and counting ([commits.toino.pt](https://commits.toino.pt/GM/commits/))  
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musbi8788&label=Profile%20views&color=0e75b6&style=flat" alt="musbi8788" /> </p>
 
@@ -53,7 +61,6 @@ I’m passionate about collaborating on open-source projects and continuously le
 <a href="https://www.linkedin.com/in/musbi-jawo-3b6497327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.facebook.com/musbi222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/musbi802022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-
 </p>
 
 ---
@@ -76,10 +83,6 @@ I’m passionate about collaborating on open-source projects and continuously le
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
 </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musbi8788&show_icons=true&locale=en" alt="musbi8788" /></p>
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musbi8788)
-
-
