@@ -5,6 +5,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3FsaWc3dHYzM3hlcGlyenBidDNzZ3o1cWN1YnRydjZnY2VkeDY0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" alt="Programming Animation" width="200"/>
 </p>
 
+<a href='https://ko-fi.com/W7W41KRV4R' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Skills-Python%20%7C%20Django%20%7C%20Flask%20%7C%20Git-orange?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Selenium%20%7C%20Seaborn%20%7C%20API%20Development-blue?style=for-the-badge&logo=readthedocs" />
@@ -88,5 +90,5 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musbi8788)
 
-
+<a href='https://ko-fi.com/W7W41KRV4R' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
