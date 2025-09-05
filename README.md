@@ -89,4 +89,4 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musbi8788)
 
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'W7W41KRV4R');kofiwidget2.draw();</script> 
+
