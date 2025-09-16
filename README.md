@@ -34,7 +34,7 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 - 🏆 **Top 5 Finalist** – Hack4Gambia Hackathon (2025)  
 - 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 886+ commits and counting ([commits.toino.pt](https://commits.toino.pt/GM/commits/))  
 - 💻 Successfully deployed [Django Portfolio](https://musbi-django-portfolio.onrender.com/) with multiple live projects
-- 🥇 Built and launched [AttendanceGM](https://github.com/Musbi8788/attendancegm) to improve employee and student attendance tracking in The Gambia
+- 🥇 Built and launched [AttendanceGM](https://www.attendancegm.com/) to improve employee and student attendance tracking in The Gambia
 - 🏗️ Co-founded **Blueprint Creators**, a creative startup team for web and graphic design in The Gambia
 
 ---
