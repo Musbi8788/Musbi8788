@@ -20,42 +20,34 @@ I'm a passionate, <strong>self-taught Python developer</strong> and tech enthusi
 </p>
 
 <p align="left">
-I’m currently building full-stack Python projects like <strong>Smart Invoice Generator</strong>, <strong>Service Finder</strong>, and <strong>GamDev Hub</strong>, while honing skills in <strong>Python automation</strong>, <strong>API development</strong>, <strong>project architecture</strong>, and <strong>deployment</strong>.
+I’m currently building full-stack Python projects like <strong>Smart Invoice Generator</strong>, <strong>Service Finder</strong>, <strong>GamDev Hub</strong>, and <strong>AttendanceGM (Attendance Tracker)</strong>, while honing skills in <strong>Python automation</strong>, <strong>API development</strong>, <strong>project architecture</strong>, and <strong>deployment</strong>.
 </p>
 
 <p align="left">
-I continuously explore technologies such as <strong>Django</strong>, <strong>Django Rest API</strong>, <strong>Docker</strong>, <strong>Linux Command</strong>, and <strong>Git</strong>. Outside coding, I enjoy chess and touch typing at 50 WPM.
+I continuously explore technologies such as <strong>Django</strong>, <strong>Django Rest API</strong>, <strong>Flask</strong>, <strong>Docker</strong>, <strong>Linux</strong>, and <strong>Git</strong>.
 </p>
-
 
 ---
 
 <h3 align="left">🚀 Achievements</h3>
 
 - 🏆 **Top 5 Finalist** – Hack4Gambia Hackathon (2025)  
-- 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 497+ commits and counting ([commits.toino.pt](https://commits.toino.pt/GM/commits/))  
+- 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 886+ commits and counting ([commits.toino.pt](https://commits.toino.pt/GM/commits/))  
+- 💻 Successfully deployed [Django Portfolio](https://musbi-django-portfolio.onrender.com/) with multiple live projects
+- 🥇 Built and launched [AttendanceGM](https://github.com/Musbi8788/attendancegm) to improve employee and student attendance tracking in The Gambia
+- 🏗️ Co-founded **Blueprint Creators**, a creative startup team for web and graphic design in The Gambia
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musbi8788&label=Profile%20views&color=0e75b6&style=flat" alt="musbi8788" /> </p>
+<h3 align="left">🛠️ Projects</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musbi8788" alt="musbi8788" /></a> </p>
-
-- 🔭 I’m currently working on [Gamzon](https://github.com/Musbi8788/gamzon.git)
-
-- 🌱 I’m currently learning **Flask, Django, Python automation, full-stack web development, Git/GitHub, data visualization, project architecture, and improving my English and touch typing skills.**
-
-- 👯 I’m looking to collaborate on [GamDev](https://github.com/Musbi8788/gamdev.git)
-
-- 🤝 I’m looking for help with [full-stack development](https://www.freecodecamp.org/learn/full-stack-developer/)
-
-- 👨‍💻 All of my projects are available at [Django Portfolio](https://musbi-django-portfolio.onrender.com/)
-
-- 📝 I regularly write articles on [https://gawtech.ct.ws/blog/](https://gawtech.ct.ws/blog/)
-
-- 💬 Ask me about **web design, Python programming, Flask & Django, graphic design, Git/GitHub, and building creative tech projects.**
-
-- ⚡ Fun fact **I’m a chess enthusiast and can type at 50 WPM while thinking about code!**
+| Project | Description | Link |
+|---------|-------------|------|
+| Gamzon | E-commerce platform for local Gambian businesses | [GitHub](https://github.com/Musbi8788/gamzon.git) |
+| GamDev Hub | Gaming community and project hub | [GitHub](https://github.com/Musbi8788/gamdev.git) |
+| Service Finder | Web platform to connect service providers with clients | [Live](https://service-board-n8cp.onrender.com/) |
+| AttendanceGM | Attendance tracking system with webcam verification | [Live](https://www.attendancegm.com/) |
+| Blueprint Creators Website | WordPress site for creative services | [Live](https://blueprint-creators.42web.io/) |
 
 ---
 
@@ -65,8 +57,6 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 <a href="https://www.facebook.com/musbi222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/musbi802022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -91,4 +81,3 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 ![GitHub Streak](https://streak-stats.demolab.com?user=Musbi8788)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W41KRV4R)
-
