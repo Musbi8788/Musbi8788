@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-success?style=for-the-badge&logo=github" />
 </p>
 
+[![An image of @musbi8788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/musbi8788)](https://holopin.io/@musbi8788)
 ---
 
 <p align="left">
