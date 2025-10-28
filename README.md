@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-success?style=for-the-badge&logo=github" />
 </p>
 
-[![An image of @musbi8788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/musbi8788)](https://holopin.io/@musbi8788)
 ---
 
 <p align="left">
@@ -37,6 +36,9 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 - 💻 Successfully deployed [Django Portfolio](https://musbi-django-portfolio.onrender.com/) with multiple live projects
 - 🥇 Built and launched [AttendanceGM](https://www.attendancegm.com/) to improve employee and student attendance tracking in The Gambia
 - 🏗️ Co-founded **Blueprint Creators**, a creative startup team for web and graphic design in The Gambia
+
+  [![An image of @musbi8788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/musbi8788)](https://holopin.io/@musbi8788)
+
 
 ---
 
