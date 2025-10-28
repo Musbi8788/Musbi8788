@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Top%20Skills-Python%20%7C%20Django%20%7C%20Flask%20%7C%20Git-orange?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Currently%20Learning-Selenium%20%7C%20Seaborn%20%7C%20API%20Development-blue?style=for-the-badge&logo=readthedocs" />
   <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -32,12 +33,16 @@ I continuously explore technologies such as <strong>Django</strong>, <strong>Dja
 <h3 align="left">🚀 Achievements</h3>
 
 - 🏆 **Top 5 Finalist** – Hack4Gambia Hackathon (2025)  
-- 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 886+ commits and counting ([commits.toino.pt](https://commits.toino.pt/GM/commits/))  
-- 💻 Successfully deployed [Django Portfolio](https://musbi-django-portfolio.onrender.com/) with multiple live projects
-- 🥇 Built and launched [AttendanceGM](https://www.attendancegm.com/) to improve employee and student attendance tracking in The Gambia
+- 🔥 **#1 on GitHub Commits Leaderboard (The Gambia)** – 886+ commits and counting ([https://commits.toino.pt/GM/commits/](https://commits.toino.pt/GM/commits/))  
+- 💻 Successfully deployed [Django Portfolio](https://musbi-django-portfolio.onrender.com/) with multiple live projects  
+- 🥇 Built and launched [AttendanceGM](https://www.attendancegm.com/) to improve employee and student attendance tracking in The Gambia  
 - 🏗️ Co-founded **Blueprint Creators**, a creative startup team for web and graphic design in The Gambia
+  
+- 🛠️ **Hacktoberfest 2025 Contributions:**
+- 📚 Added educational resource [Principles of Data Science](https://openstax.org/details/books/principles-data-science) and contributed to open-source projects during **Hacktoberfest 2025** 
+- Fixed broken Biopython Tutorial link ([Biopython Tutorial and Cookbook](https://biopython.org/wiki/Documentation)) – by fixing this, thousands of learners and researchers can now access tutorials and educational resources reliably  
+- Created issue on Biopython GitHub ([https://github.com/biopython/biopython.github.io/issues](https://github.com/biopython/biopython.github.io/issues/213)) – ensuring open-source tutorials remain accessible to the community
 
-  [![An image of @musbi8788's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/musbi8788)](https://holopin.io/@musbi8788)
 
 
 ---
