@@ -115,7 +115,7 @@ Every system I deploy replaces friction with function. AttendanceGM started as a
 
 I collaborate with founders, investors, and engineers building technology for emerging markets.
 
-**Email:** musbi@attendancegm.com  
+**Email:** musbimusbi7@gmail.com  
 **LinkedIn:** [Musbi Jawo](https://www.linkedin.com/in/musbi-jawo-3b6497327/)  
 **Location:** The Gambia, West Africa
 
