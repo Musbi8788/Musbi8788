@@ -73,8 +73,6 @@ Digital solutions team providing web development and design services.
 Technology is validated by adoption, not by commits. AttendanceGM has moved beyond the codebase into real organizations that shape the product through daily use:
 
 - **WAVE Gambia** — Onboarded with feature requests now shaping the roadmap: automated leave balances, performance management, and offline attendance for field staff
-- **Sal Consult Gambia LTD** — Engaged for digital transformation, moving from paper-based attendance to automated tracking
-- **London Clinic** — Consulted for workflow assessment and digital readiness evaluation
 - **Team Rising Stars** — Active deployment partner, providing feedback that drives product iteration
 - **Legacy Foundations** — Organizational client, contributing to the growing understanding of how Gambian institutions adopt HR technology
 
