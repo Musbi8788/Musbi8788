@@ -4,8 +4,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/musbi-jawo-3b6497327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.attendancegm.com"><img src="https://img.shields.io/badge/AttendanceGM-Live-006400?style=flat" alt="AttendanceGM"/></a>
-  <a href="mailto:musbi@attendancegm.com"><img src="https://img.shields.io/badge/Email-Contact-white?style=flat&logo=gmail" alt="Email"/></a>
+  <a href="https://www.catalystgen.net"><img src="https://img.shields.io/badge/CatalystGen-Live-006400?style=flat" alt="CatalystGen"/></a>
+  <a href="mailto:mjawo@catalystgen.net"><img src="https://img.shields.io/badge/Email-Contact-white?style=flat&logo=gmail" alt="Email"/></a>
 </p>
 
 ---
@@ -112,9 +112,9 @@ Every system I deploy replaces friction with function. AttendanceGM started as a
 ## Connect
 
 I collaborate with founders, investors, and engineers building technology for emerging markets.
-
-**Email:** musbimusbi7@gmail.com  
-**LinkedIn:** [Musbi Jawo](https://www.linkedin.com/in/musbi-jawo-3b6497327/)  
+**Website:** [CatalystGen](https://www.catalystgen.net/) 
+**Email:** mjawo@catalystgen.net
+**LinkedIn:** [Musa Jawo](https://www.linkedin.com/in/musbi-jawo-3b6497327/)  
 **Location:** The Gambia, West Africa
 
 ---
